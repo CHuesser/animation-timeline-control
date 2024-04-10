@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { TimelineKeyframeStyle } from '../settings/styles/timelineKeyframeStyle';
 import { TimelineGroupStyle } from '../settings/styles/timelineGroupStyle';
 /**
@@ -25,4 +26,8 @@ export interface TimelineGroup {
    * Whether group is hidden.
    */
   hidden?: boolean;
+  /**
+   * Any Group Meta information
+   */
+  meta?: any;
 }

@@ -25,4 +25,8 @@ export interface TimelineGroup {
      * Whether group is hidden.
      */
     hidden?: boolean;
+    /**
+     * Any Group Meta information
+     */
+    meta?: any;
 }

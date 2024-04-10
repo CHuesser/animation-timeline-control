@@ -13,7 +13,7 @@ export interface TimelineRowStyle {
      */
     fillColor?: string;
     /**
-     * Row margin bottom in pixels between tracks/rows.
+     * Row margin bottom between tracks/rows in pixels.
      */
     marginBottom?: number;
     /**

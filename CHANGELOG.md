@@ -2,6 +2,15 @@
 
 ## Changes
 
+## [2.3.2] - 05.10.2024
+
+### Changed
+
+- Added meta info to keyframe and groups
+- Clean-up libs folder
+
+## Changes
+
 ## [2.3.1] - 03.24.2024
 
 ### Changed
